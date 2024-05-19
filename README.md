@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aron00123
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cpp, python, java, CUDA and other things
+- 🌱 I’m currently learning Machine Learning, Rust, CUDA and other things
 - 📫 How to reach me : arongao123@gmail.com
 
 <!---
